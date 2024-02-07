@@ -8,12 +8,12 @@ To run this project on your local machine, follow these steps:
 Python 3 installed on your machine
 Django framework installed (you can install it using pip install django)
 
-##Installation
+## Installation
 Download or clone this repository to your local machine.
 
 Navigate to the project directory in your file explorer.
 
-##Running the Server
+## Running the Server
 Open a terminal or command prompt.
 
 Navigate to the project directory using the cd command.

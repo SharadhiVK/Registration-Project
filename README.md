@@ -1,12 +1,7 @@
 # Registration-Project
 Registration System - A Django project for managing user registrations. Includes CRUD operations. Easy setup and customization.
 
-Certainly! Below is a README file template that you can use to provide instructions for running the given code on a local machine:
-
-Registration System
-Welcome to the Registration System project! This project is a simple registration system implemented using Django. It allows you to manage user registration information with CRUD (Create, Read, Update, Delete) operations.
-
-Getting Started
+## Getting Started
 To run this project on your local machine, follow these steps:
 
 Prerequisites
